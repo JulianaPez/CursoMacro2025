@@ -3,17 +3,20 @@ title: "Materiales del curso"
 toc: false
 ---
 
-Página oficial con todos los recursos (materiales prácticos y presentaciones)
+Materiales prácticos y presentaciones primera semana de trabajo
 
 ### Coordinan
 
-Dr. Luis D. Verde Arregoitia\
-Dr. Fabricio Villalobos Camacho
+Dr. Fabricio Villalobos Camacho\
+Juan Luis Parra Vergara
 
 ## Imparten
-
+Dr. Fabricio Villalobos Camacho\
+Juan Luis Parra Vergara\
 Dr. Luis D. Verde Arregoitia\
-M. en C. Juliana Herrera Pérez
+M. en C. Daniel Valencia Rodriguez\
+M. en C. Juliana Herrera Pérez\
+
 
 ## Material
 
@@ -24,6 +27,6 @@ M. en C. Juliana Herrera Pérez
 [Presentación p/ ejercicio](ppts/maevo2025.qmd){.external target="_blank"}
 
 
-[📆   19 de Junio, 2025]{.code}\
-[🕛  12:00 - 1:30 2:30 - 4:00]{.code}\
-[🏨  Sala de video-conferencia Edificio E]{.code}\
+[📆  23-28 de septiembre, 2025]{.code}\
+[🕛  10:00am - 1:30pm y 2:30pm - 4:00pm]{.code}\
+[🏨  Salón XX Edificio Posgrado]{.code}\

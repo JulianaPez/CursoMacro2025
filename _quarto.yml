@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Práctica Git-Git Hub Maevolab"
+  title: "Macroecología: integrando espacio y tiempo para entender la biodiversidad"
   favicon: maevolab.png
   
   navbar:
@@ -17,9 +17,8 @@ website:
 
   
   page-footer:
-
-    right: "Maevolab- 2025"
-
+    right: |
+      <img src="logo_footer.png" alt="Logo Instituciones" height="30"/>
 
 
 format:
