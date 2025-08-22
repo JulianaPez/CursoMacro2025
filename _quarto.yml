@@ -17,9 +17,13 @@ website:
 
   
   page-footer:
-    right: |
-      <img src="logo_footer.png" alt="Logo Instituciones" height="30"/>
-
+    center: |
+      <div style="display:flex; justify-content:center; gap:30px;">
+        <img src="udea.png" alt="Logo UdeA" height="80"/>
+        <img src="inecol.png" alt="Logo Inecol" height="80"/>
+        <img src="maevolab.png" alt="Logo Maevolab" height="80"/>
+        <img src="ecoevo.png" alt="Logo Ecoevo" height="80"/>
+      </div>
 
 format:
   html:

@@ -1,0 +1,15 @@
+{
+  "hash": "06d2972e153cedce6b7728ee8ac5fe3c",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Introducción\"\nauthor: \"Juliana\"\nformat: \n  live-revealjs:\n    theme: simple\n---\n\n::: {.cell}\n\n:::\n\n\n\n\n\n\n#### Esta es la intro!\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

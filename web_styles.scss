@@ -12,3 +12,31 @@ $code-color: #4361ee;
 .navbar { 
   font-family: 'Sora'; 
   }
+  
+  
+  /* Selecciona el logo en el navbar y ajusta su tamaño */
+.navbar-logo img {
+  height: 50px;      /* Ajusta el alto según te convenga */
+  width: auto;       /* Mantiene la proporción de la imagen */
+  object-fit: contain;
+  padding: 4px 0;
+}
+
+body {
+  background-image: url("img.png");   /* reemplaza con tu imagen */
+  background-size: cover;              /* ajusta para que cubra toda la pantalla */
+  background-attachment: fixed;        /* efecto “parallax” */
+  background-position: center;         /* centra la imagen */
+  background-repeat: no-repeat;        /* evita que se repita */
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.7);  /* capa blanca translúcida */
+  z-index: -1;
+}

@@ -18,13 +18,13 @@ M. en C. Daniel Valencia Rodriguez\
 M. en C. Juliana Herrera Pérez\
 
 
-## Material
+## Clases
 
-[Introduccion](ppts/gitclass.qmd){.external target="_blank"}
+[Introduccion](ppts/Intro.qmd){.external target="_blank"}
 
-[Trabajo Colaborativo](ppts/collabLD.qmd){.external target="_blank"}
+## Materiales ejercicios
 
-[Presentación p/ ejercicio](ppts/maevo2025.qmd){.external target="_blank"}
+[One Drive](https://inecol-my.sharepoint.com/:f:/g/personal/estudiante155_inecol_mx/Egx8Lv6AUzBOvjWQaWS_V-UBUpWxLk3NjlfYsw_g8hP39Q?e=KrgM4b){.external target="_blank"}
 
 
 [📆  23-28 de septiembre, 2025]{.code}\
